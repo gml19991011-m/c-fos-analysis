@@ -1,0 +1,13 @@
+animal_id,group,region,cfos_positive_cells
+R01,Control,AP,42
+R02,Control,AP,39
+R03,Control,AP,45
+R04,Morphine,AP,78
+R05,Morphine,AP,83
+R06,Morphine,AP,75
+R07,Control,NTS,55
+R08,Control,NTS,51
+R09,Control,NTS,58
+R10,Morphine,NTS,102
+R11,Morphine,NTS,96
+R12,Morphine,NTS,108
